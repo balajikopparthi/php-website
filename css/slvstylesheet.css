@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav{
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#FFFFFF;
+padding:5px;
+font-weight:bold;
+letter-spacing:1px;
+
+
+}
+
+.nav a:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#000000;
+padding:5px;
+font-weight:bold;
+letter-spacing:1px;
+
+
+}
+
+
+.copy{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFFFFF;
+padding:5px;
+
+
+
+}
+
+
+.bedrooms{
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#666666;
+padding:5px;
+font-weight:bold;
+border-bottom:#CCCCCC solid 1px;
+}
+
+.diffrenttexst{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+padding:5px;
+font-weight:bold;
+
+}
+
+.diffrenttexst2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+padding:5px;
+border-bottom:#CCCCCC solid 1px;
+font-weight:bold;
+
+}
+
+.pink{
+
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#CD2F5E;
+padding:5px;
+font-weight:bold;
+border-bottom:#CCCCCC solid 1px;
+
+}
+
+
+.pinkbig{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#CD2F5E;
+	padding:5px;
+	line-height:22px;
+	font-weight:bold;
+	border-top-width: 2px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #d64b75;
+	border-bottom-color: #CCCCCC;
+}
+
+
+.property{
+font-family:"Times New Roman", Times, serif;
+font-size:18px;
+color:#333333;
+padding:5px;
+font-weight:bold;
+}
+
+
+.property2{
+font-family:"Times New Roman", Times, serif;
+font-size:18px;
+color:#CD2F5E;
+padding:5px;
+font-weight:bold;
+}
+
+
+.bodytext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+padding:5px;
+line-height:18px;
+text-align:justify;
+}
+
